@@ -23,12 +23,21 @@
   <a href="https://github.com/calo001/luna/issues/new"> Report a problem! </a>
 </p>
 
+## Support me
+
+If you like the project and would like to fund and contribute to my work, you can do it via Paypal.Me:
+
+<p align="center">
+  <a href="https://www.paypal.me/calo001" target="_blank">
+    <img src="https://raw.githubusercontent.com/calo001/luna/master/resources/paypalme.png" alt="Screenshot">
+  </a>
+</p>
+
 ### Translators
 
 * [Rafael C. Nunes](https://github.com/rafaelcn) Brazilian Portuguese
 * [Hannes Schulze](https://github.com/hannesschulze) German 
 * [NathanBnm](https://github.com/NathanBnm) French
-
 
 ### License
 
