@@ -25,11 +25,16 @@
 
 ## Support me
 
-If you like the project and would like to fund and contribute to my work, you can do it via Paypal.Me:
+Luna is and will always be free for the world 🌎️. If you like the project and would like to fund and contribute to my work, you can do it via Paypal.Me:
 
 <p align="center">
   <a href="https://www.paypal.me/calo001" target="_blank">
     <img src="https://raw.githubusercontent.com/calo001/luna/master/resources/paypalme.png" alt="Screenshot">
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.patreon.com/carloslr" target="_blank">
+    <img src="https://raw.githubusercontent.com/calo001/luna/master/resources/become_a_patron_button.png" alt="Screenshot">
   </a>
 </p>
 
