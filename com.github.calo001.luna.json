@@ -18,8 +18,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/calo001/luna/archive/1.1.3.tar.gz",
-                    "sha256" : "942713891fe0dbdba7083a46e7f463c0f588b2d1f4a9459ff1a24cf0f58ea857"
+                    "url" : "https://github.com/calo001/luna/archive/1.1.4.tar.gz",
+                    "sha256" : "3a2c1c9f48da18581bf5c621f2ffd3adf3526ad2605cbccf128f5f5d2db7cc18"
                 }
             ]
         }
