@@ -1,10 +1,10 @@
 {
     "app-id" : "com.github.calo001.luna",
     "base": "io.elementary.BaseApp",
-    "base-version": "juno-19.08",
+    "base-version": "juno-21.08",
     "runtime": "org.freedesktop.Platform",
     "sdk": "org.freedesktop.Sdk",
-    "runtime-version": "19.08",
+    "runtime-version": "21.08",
     "command" : "com.github.calo001.luna",
     "finish-args" : [
         "--share=ipc",
@@ -18,8 +18,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/calo001/luna/archive/1.1.4.tar.gz",
-                    "sha256" : "3a2c1c9f48da18581bf5c621f2ffd3adf3526ad2605cbccf128f5f5d2db7cc18"
+                    "url" : "https://github.com/calo001/luna/archive/1.1.6.tar.gz",
+                    "sha256" : "ccfbc9d2b49fd384623dcb020822f0ea0bd28df8090f227b6d0f94d65d2e7479"
                 }
             ]
         }
