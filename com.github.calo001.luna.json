@@ -1,10 +1,10 @@
 {
     "app-id" : "com.github.calo001.luna",
     "base": "io.elementary.BaseApp",
-    "base-version": "juno-21.08",
+    "base-version": "juno-22.08",
     "runtime": "org.freedesktop.Platform",
     "sdk": "org.freedesktop.Sdk",
-    "runtime-version": "21.08",
+    "runtime-version": "22.08",
     "command" : "com.github.calo001.luna",
     "finish-args" : [
         "--share=ipc",
