@@ -24,6 +24,10 @@
                     "type" : "archive",
                     "url" : "https://github.com/calo001/luna/archive/1.1.6.tar.gz",
                     "sha256" : "ccfbc9d2b49fd384623dcb020822f0ea0bd28df8090f227b6d0f94d65d2e7479"
+                },
+                {
+                    "type" : "patch",
+                    "path" : "fix-appdata.patch"
                 }
             ]
         }
