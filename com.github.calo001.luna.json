@@ -8,7 +8,8 @@
     "command" : "com.github.calo001.luna",
     "finish-args" : [
         "--share=ipc",
-        "--socket=x11",
+        "--socket=fallback-x11",
+        "--socket=wayland",
         "--metadata=X-DConf=migrate-path=/com/github/calo001/luna/"
     ],
     "modules" : [
